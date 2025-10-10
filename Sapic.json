@@ -1,0 +1,13 @@
+{
+  "id": "sapic.test.extension",
+  "name": "Test Extension",
+  "type": "themes",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "maxAppVersion": null,
+  "contributes": {
+    "themes": [
+
+    ]
+  }
+}
