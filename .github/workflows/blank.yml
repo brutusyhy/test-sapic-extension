@@ -12,6 +12,15 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+    inputs:
+      pr_type:
+        description: 'PR Type'
+        required: true
+        default: "ready"
+        type: choice
+        options:
+        - draft
+        - ready
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
