@@ -1,10 +1,11 @@
 {
-  "id": "sapic.test.extension",
+  "identifier": "test-sapic-extension",
   "name": "Test Extension",
-  "type": "themes",
+  "authors": ["sapic"],
+  "description": "A test extension",
+  "repository": "https://github.com/brutusyhy/test-sapic-extension",
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
-  "maxAppVersion": null,
   "contributes": {
     "themes": [
 
