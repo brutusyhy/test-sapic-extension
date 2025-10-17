@@ -4,7 +4,7 @@
   "authors": ["sapic"],
   "description": "A test extension",
   "repository": "https://github.com/brutusyhy/test-sapic-extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "1.0.0",
   "contributes": {
     "themes": [
